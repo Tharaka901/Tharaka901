@@ -23,7 +23,7 @@ Full-stack developer from Sri Lanka 🇱🇰. I build business systems end to en
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| **[LitroERP_WEB]([https://github.com/Tharaka901/LitroERP_WEB](https://github.com/Tharaka901/LitroERP-Showcase))** | Complete ERP system for a Litro Gas distributor | Laravel | ✅ Completed |
+| **[LitroERP_WEB](https://github.com/Tharaka901/LitroERP-Showcase)** | Complete ERP system for a Litro Gas distributor | Laravel | ✅ Completed |
 | **[MobileApp-GassBilling](https://github.com/Tharaka901/MobileApp-GassBilling)** | Mobile billing system for field sales | Flutter · Node.js | ✅ Completed |
 | **[Mobile-App-GasDealer](https://github.com/Tharaka901/Mobile-App-GasDealer)** | Mobile app for dealers to view their business data | Flutter · Laravel | ✅ Completed |
 
