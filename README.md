@@ -19,22 +19,24 @@ Full-stack developer from Sri Lanka 🇱🇰. I build business systems end to en
 
 ### 🚀 Featured Projects
 
-#### 🏢 ERP & Mobile Systems: Litro Gas Distributor
+#### 🏢 Litro Gas Distribution Suite
 
-| Project | Description | Tech | Status |
+Three connected systems that run a Litro Gas distributor end to end: the office runs the ERP, sales reps bill dealers on the road with the billing app, and dealers track their own account in the dealer app.
+
+| Project | What it does | Tech | Status |
 |---|---|---|---|
-| **[LitroERP_WEB](https://github.com/Tharaka901/LitroERP-Showcase)** | Complete ERP system for a Litro Gas distributor | Laravel | ✅ Completed |
-| **[MobileApp-GassBilling](https://github.com/Tharaka901/MobileApp-GassBilling)** | Mobile billing system for field sales | Flutter · Node.js | ✅ Completed |
-| **[Mobile-App-GasDealer](https://github.com/Tharaka901/Mobile-App-GasDealer)** | Mobile app for dealers to view their business data | Flutter · Laravel | ✅ Completed |
+| **[LitroERP_WEB](https://github.com/Tharaka901/LitroERP-Showcase)** | Full ERP: route cards, stock, purchasing, finance, accounting, HR and reports | Laravel | ✅ In use |
+| **[MobileApp-GassBilling](https://github.com/Tharaka901/GasBilling-App-Showcase)** | Field billing app: route cards, QR customer lookup, VAT invoices, cash and cheque payments | Flutter · Node.js | ✅ In use |
+| **[Mobile-App-GasDealer](https://github.com/Tharaka901/GasDealer-App-Showcase)** | Dealer self-service app: invoices, outstanding balance, leak and loan tracking, personal QR code | Flutter · Laravel | ✅ In use |
 
 #### 🍽 Point of Sale Systems: Cafés & Restaurants
 
-| Project | Description | Tech | Status |
+| Project | What it does | Tech | Status |
 |---|---|---|---|
-| **[Revon-Cafe_New_Project](https://github.com/Tharaka901/Revon-Cafe_New_Project)** | Fully functional café POS system | Laravel | ✅ Completed |
-| **[Ravon-Restaurant-New](https://github.com/Tharaka901/Ravon-Restaurant-New)** | Fully functional restaurant POS system | Laravel | ✅ Completed |
+| **Revon-Cafe_New_Project** | Fully functional café POS system | Laravel | ✅ Completed |
+| **Ravon-Restaurant-New** | Fully functional restaurant POS system | Laravel | ✅ Completed |
 
-> 🔒 Some of these are client projects and their source code is private. Happy to walk through them in an interview.
+> 🔒 These are client projects, so their source code is private. Each link opens a showcase with features and screenshots. Happy to walk through the code in an interview.
 
 ---
 
