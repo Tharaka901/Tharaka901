@@ -82,21 +82,27 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☕ Revon Café POS</h3>
-      <p>Fully functional point of sale system for a café.</p>
+      <a href="https://github.com/Tharaka901/Cafe-POS-System-Showcase">
+        <img src="https://raw.githubusercontent.com/Tharaka901/Cafe-POS-System-Showcase/main/screenshots/pos.jpg" width="100%" />
+      </a>
+      <h3><a href="https://github.com/Tharaka901/Cafe-POS-System-Showcase">☕ Café POS System</a></h3>
+      <p>Multi-branch POS for a bakery and café chain: touch-friendly billing, six payment methods, live sales dashboard and manager approvals.</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/status-completed-success?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🍛 Ravon Restaurant POS</h3>
-      <p>Fully functional point of sale system for a restaurant.</p>
+      <a href="https://github.com/Tharaka901/Restaurant-POS-Showcase">
+        <img src="https://raw.githubusercontent.com/Tharaka901/Restaurant-POS-Showcase/main/screenshots/pos.jpg" width="100%" />
+      </a>
+      <h3><a href="https://github.com/Tharaka901/Restaurant-POS-Showcase">🍛 Restaurant POS System</a></h3>
+      <p>Full-service restaurant POS: table, take-away and delivery orders, split and merge bills, shifts, raw material stock and wastage tracking.</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/status-completed-success?style=flat-square" />
     </td>
   </tr>
 </table>
 
-> 🔒 These are client projects, so their source code is private. Each link opens a showcase with features and screenshots. Happy to walk through the code in an interview.
+> 🔒 These are client projects, so their source code is private. Each card opens a showcase with features and screenshots. Happy to walk through the code in an interview.
 
 ---
 
